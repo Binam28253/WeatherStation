@@ -366,4 +366,5 @@ extern "C" {
 }
 #endif
 
-#endif /* MINUNIT_MINUNIT_H */#pragma once
+#endif /* MINUNIT_MINUNIT_H */
+#pragma once
