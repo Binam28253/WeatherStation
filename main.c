@@ -10,7 +10,7 @@ typedef struct {
 // Function to collect temperature data from the user
 TemperatureData collectTemperatureData() {
     TemperatureData data;
-    printf("Welcome to Weather Station");
+    printf("Welcome to Weather Station\n");
     printf("Enter the temperature: ");
     scanf("%f", &data.temperature);
     return data;
